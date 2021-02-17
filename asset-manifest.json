@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/labster/static/css/main.a365ad36.chunk.css",
-    "main.js": "/labster/static/js/main.7373b0d4.chunk.js",
-    "main.js.map": "/labster/static/js/main.7373b0d4.chunk.js.map",
-    "runtime-main.js": "/labster/static/js/runtime-main.80a53772.js",
-    "runtime-main.js.map": "/labster/static/js/runtime-main.80a53772.js.map",
-    "static/js/2.dc47241b.chunk.js": "/labster/static/js/2.dc47241b.chunk.js",
-    "static/js/2.dc47241b.chunk.js.map": "/labster/static/js/2.dc47241b.chunk.js.map",
+    "main.js": "/labster/static/js/main.b23c0337.chunk.js",
+    "main.js.map": "/labster/static/js/main.b23c0337.chunk.js.map",
+    "runtime-main.js": "/labster/static/js/runtime-main.87de9c29.js",
+    "runtime-main.js.map": "/labster/static/js/runtime-main.87de9c29.js.map",
+    "static/js/2.33f8018f.chunk.js": "/labster/static/js/2.33f8018f.chunk.js",
+    "static/js/2.33f8018f.chunk.js.map": "/labster/static/js/2.33f8018f.chunk.js.map",
     "index.html": "/labster/index.html",
-    "precache-manifest.81cbc1df4c4c3cac18863d9a4b27d434.js": "/labster/precache-manifest.81cbc1df4c4c3cac18863d9a4b27d434.js",
+    "precache-manifest.84dfbfa72637f9e66abb9a458ec26ee1.js": "/labster/precache-manifest.84dfbfa72637f9e66abb9a458ec26ee1.js",
     "service-worker.js": "/labster/service-worker.js",
     "static/css/main.a365ad36.chunk.css.map": "/labster/static/css/main.a365ad36.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.80a53772.js",
-    "static/js/2.dc47241b.chunk.js",
+    "static/js/runtime-main.87de9c29.js",
+    "static/js/2.33f8018f.chunk.js",
     "static/css/main.a365ad36.chunk.css",
-    "static/js/main.7373b0d4.chunk.js"
+    "static/js/main.b23c0337.chunk.js"
   ]
 }
